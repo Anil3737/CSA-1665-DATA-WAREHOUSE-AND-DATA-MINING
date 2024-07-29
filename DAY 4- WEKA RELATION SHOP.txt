@@ -1,0 +1,28 @@
+@relation shop 
+
+@attribute Transaction_ID numeric
+@attribute Item string            
+
+
+@data
+1,Hot
+1,dogs
+1,Buns
+1,Ketchup
+2,Hot
+2,dogs
+2,Buns
+3,Hot
+3,dogs
+3,Coke
+3,Chips
+4,Chips
+4,Coke
+5,Chips
+5,Ketchup
+6,Hot
+6,dogs
+6,Coke
+6,Chips
+                                                                  
+     
