@@ -1,0 +1,11 @@
+@relation dataset
+@attribute status{married,no}
+@attribute gender{female,male}
+@attribute age{15,28,35}
+@attribute income{10000,25000,50000,65000,100000}
+@data
+married female 15 10000
+no male 28 25000
+married female 35 50000
+no male 15 65000 
+married female 28 100000
